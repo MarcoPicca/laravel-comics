@@ -16,9 +16,7 @@
     </head>
     <body>
         <header>
-            <div class="d-flex justify-content-center">
-                <h1>Template Page</h1>
-            </div>
+            @include('layouts.app')
         </header>
     </body>
 </html>

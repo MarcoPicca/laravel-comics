@@ -1,4 +1,14 @@
+@use 'particles/header.scss' as *;
+
+@use 'particles/main.scss' as *;
+
+@use 'particles/footer.scss' as *;
+
+
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+
+
 
 
 *{
@@ -7,3 +17,4 @@
     box-sizing: border-box;
 
 }
+
